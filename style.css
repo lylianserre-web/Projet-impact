@@ -10,7 +10,7 @@ body {
 
 /* En-tête */
 header {
-    background-color: #c2ae3d;
+    background-color: #102b83;
     color: #ffffff;
     padding: 1rem 0;
     text-align: center;
@@ -18,7 +18,7 @@ header {
 
 /* Barre de navigation */
 nav {
-    background: #444;
+    background: #009bc6;
     color: #fff;
     padding: 0.5rem;
     text-align: center;
@@ -68,7 +68,7 @@ main {
 footer {
     text-align: center;
     padding: 1rem;
-    background: #c2ae3d;
+    background: #102b83;
     color: #fff;
     margin-top: 20px;
 }
@@ -98,7 +98,7 @@ form textarea {
 }
 
 form button {
-    background-color: #c2ae3d; /* Couleur du header */
+    background-color: #102b83; /* Couleur du header */
     color: white;
     padding: 12px 20px;
     border: none;
