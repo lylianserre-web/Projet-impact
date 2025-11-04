@@ -10,7 +10,7 @@ body {
 
 /* En-tête */
 header {
-    background-color: #35424a;
+    background-color: #c2ae3d;
     color: #ffffff;
     padding: 1rem 0;
     text-align: center;
@@ -68,7 +68,7 @@ main {
 footer {
     text-align: center;
     padding: 1rem;
-    background: #35424a;
+    background: #c2ae3d;
     color: #fff;
     margin-top: 20px;
 }
@@ -98,7 +98,7 @@ form textarea {
 }
 
 form button {
-    background-color: #35424a; /* Couleur du header */
+    background-color: #c2ae3d; /* Couleur du header */
     color: white;
     padding: 12px 20px;
     border: none;
