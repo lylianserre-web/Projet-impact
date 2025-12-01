@@ -1,0 +1,17 @@
+{
+    "1": {
+        "question": "Quelle est la capitale de la France ?",
+        "reponses": ["Londres", "Paris", "Berlin"],
+        "bonne_reponse": 1
+    },
+    "2": {
+        "question": "Combien font 2 + 2 ?",
+        "reponses": ["3", "4", "5"],
+        "bonne_reponse": 1
+    },
+    "3": {
+        "question": "Qui est le createur de ce jeu ?",
+        "reponses": ["Toi", "Moi", "Un chat"],
+        "bonne_reponse": 0
+    }
+}
